@@ -17,6 +17,15 @@ The goal is to understand trends based on player position, such as:
 - MySQL for data cleaning and analysis
 
 
+## Dataset Information
+**Source:** [NBA Players Database (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)   
+**Data Format:** CSV  
+**Key Columns:**   
+- PLAYER_FIRST_NAME, PLAYER_LAST_NAME, POSITION
+- COUNTRY, COLLEGE, TEAM_NAME
+- PTS, REB, AST, HEIGHT_CM, WEIGHT_KG
+
+
 ## Data Cleaning Steps
 - Checked for null or empty values on important columns
 - Checked for duplicates
@@ -115,15 +124,3 @@ LIMIT 5;
 - UCLA has produced the most players
 - Nigeria leads among countries outside the USA in number of players  
 - The Lakers are the team with the highest total points contributed by all players
-
-
-## Dataset Information
-**Source:** [NBA Players Database (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)   
-**Data Format:** CSV  
-**Key Columns:**   
-- PLAYER_FIRST_NAME, PLAYER_LAST_NAME, POSITION
-- COUNTRY, COLLEGE, TEAM_NAME
-- PTS, REB, AST, HEIGHT_CM, WEIGHT_KG
-
-
-  
