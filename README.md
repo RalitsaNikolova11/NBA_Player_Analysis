@@ -18,7 +18,7 @@ The goal is to understand trends based on player position, such as:
 
 
 ## Dataset Information
-**Source:** [NBA Players Database (via Kaggle)](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)   
+**Source:** [NBA Players Database (via Kaggle)](https://www.kaggle.com/datasets/yagizfiratt/nba-players-database/data)   
 **Data Format:** CSV  
 **Key Columns:**   
 - PLAYER_FIRST_NAME, PLAYER_LAST_NAME, POSITION
